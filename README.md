@@ -19,7 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 
 merupakan wigdet yang dapat perpindah kondisi saat ada event tap. ini bisa digukana untuk pengkondisian tema tau semacamnya karna value dari switch meruapakan boolean dan bisa kita ganti true dan false.
 
-foto 1
+![Capture](https://github.com/appworkspaceRM/widget-switch/assets/135511281/94b4a7e3-0abf-441b-9487-0e54755c5e4d)
+
 
 ```dart
 import 'package:flutter/material.dart';
@@ -79,4 +80,4 @@ class _HomePageState extends State<HomePage> {
 
 ```
 
-foto 2
+![code-snapshot](https://github.com/appworkspaceRM/widget-switch/assets/135511281/0d12bd29-d3b1-42b8-8982-8cdbdf9f1c7d)
